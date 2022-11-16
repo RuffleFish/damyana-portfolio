@@ -1,27 +1,25 @@
 {
-	"name": "kailoon",
-	"url": "https://kailoon.com/",
+	"name": "Damyana",
+	"url": "https://damyana.design/",
 	"feed": {
-		"subtitle": "The personal and professional website of designer & developer, kailoon.",
+		"subtitle": "Portfolio of UX/UI designer, Damyana.",
 		"filename": "feed.xml",
 		"path": "/feed/feed.xml",
-		"id": "https://kailoon.com/"
+		"id": "https://damyana.design/"
 	},
 	"jsonfeed": {
 		"path": "/feed/feed.json",
-		"url": "https://kailoon.com/feed/feed.json"
+		"url": "https://damyana.design/feed/feed.json"
 	},
 	"author": {
-		"name": "kailoon",
-		"email": "chankailoon@gmail.com",
-		"url": "https://kailoon.com/",
+		"name": "Damyana",
+		"email": "hello@damyana.design",
+		"url": "https://www.damyana.design",
 		"avatar": "https://res.cloudinary.com/kailoon/image/upload/c_scale,dpr_auto,q_auto,w_64/v1610896577/kailoon.com/avatar_ce8dgk.webp",
-		"mailtolink": "mailto:chankailoon@gmail.com?subject=Request from kailoon.com&body=Be sure to share as much info as you can on what you're trying to achieve and what sort of budget you have in place."
+		"mailtolink": "mailto:hello@damyana.design?subject=Request from damyana.design&body=Be sure to share as much info as you can on what you're trying to achieve and what sort of budget you have in place."
 	},
 	"socials": {
-		"dribbble": "https://dribbble.com/kailoon",
-		"twitter": "https://twitter.com/kailoon",
-		"linkedin": "https://linkedin.com/in/kailoon",
-		"github": "https://github.com/kailoon"
+		"linkedin": "https://linkedin.com/in/damyana-s70",
+		"github": "https://github.com/RuffleFish"
 	}
 }

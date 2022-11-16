@@ -1,9 +1,9 @@
 ---
 layout: single.njk
-metaTitle: About kailoon
+metaTitle: About Damyana
 metaDescription: Know more about me.
-title: Hi, I'm kailoon.
-description: I am a freelance front-end designer & developer based in Malaysia.
+title: Hey, I'm Damyana.
+description: I am a freelance UX/UI designer, based in Rotterdam, NL.
 featuredImg:
 templateEngineOverride: njk,md
 eleventyNavigation:
