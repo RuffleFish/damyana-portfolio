@@ -1,7 +1,7 @@
 ---
-metaTitle: Qbasis
+metaTitle: Improve 94% exit rate for Mee Dee Thai kitchen
 metaDescription: Warehouse Inventory Management WMS and CRM Software.
-title: Qbasis
+title: Improve 94% exit rate for Mee Dee Thai kitchen
 description: Warehouse Inventory Management WMS and CRM Software.
 testimonial: Kailoon is talented and sharp. Paired with a keen design sense and patience when dealing with clients, he’s a trustable resource to work with when it comes to branding and UI/UX works. I’ve entrusted him with the branding works of my 2 companies and will continue to do so in the future.
 clientName: Yao Quan
@@ -11,8 +11,8 @@ dribbble: https://dribbble.com/kailoon/projects/282263-Qbasis
 featuredImg: qbasis-featured
 bgColor: E3F0D0
 featured: true
-tasks: Logo Design & Brand Identity
-year: 2015
+tasks: mobile UX audit, UX research and design, UI design, monitoring analytics, session recordings 
+year: 2021
 date: 2021-02-18
 ---
 

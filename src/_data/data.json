@@ -5,13 +5,13 @@
 			"description": "I focus on human-centric design (HCD) and practical design practice to achieve lasting solutions. It can be a digital products from scratch or upgrade existing one to cope with new demands / market."
 		},
 		{
-			"name": "01. Branding & Identity",
-			"description": "A strong brand is important for your business especially startup or SME, to expand your digital reach and communicate with your customers.",
+			"name": "01. Solutions",
+			"description": "Coming up witha solution starts with exploring the problem space and gathering data. From direct research with users through qualitative and quantitative methods. I love building ethical designs that support users in achieving their goals, as well as help businesses grow..",
 			"tags": ["Style Exploration", "Visual Language", "Brand Guides"]
 		},
 		{
-			"name": "02. Web / App Design",
-			"description": "I use a structured design process for medium to large scaled projects. The process allow me to prototype complex ideas that can be easily transformed into fully functional solutions.",
+			"name": "02. Product Personality",
+			"description": "What makes a website or an app different from all the rest? Applying principles from cognitive psychology, Gestalt and behavioural science. Taking into account cultural conventions, but also crafting the right visuals that communicate the personality of a product.",
 			"tags": [
 				"User Interfaces",
 				"Design Systems",
@@ -22,8 +22,8 @@
 			]
 		},
 		{
-			"name": "03. Web Development",
-			"description": "I always make sure the projects is developed with the latest technology and it is easy to use or maintained by the clients. Check out my <a href='https://github.com/kailoon/resume' target='_blank' rel='noreferrer'>skillset</a> & <a href='https://github.com/kailoon/certificates' target='_blank' rel='noreferrer'>certificates</a>.",
+			"name": "03. Metrics",
+			"description": "My focus is user-centered, data-driven design. I follow a design thinking approach, tracking every project's success through measurable metrics and improving and iterating based on the results. Check out my <a href='https://github.com/' target='_blank' rel='noreferrer'>skillset</a>",
 			"tags": [
 				"Front-end Development",
 				"Responsive Website Development",

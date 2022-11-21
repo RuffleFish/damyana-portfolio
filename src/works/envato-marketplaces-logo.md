@@ -1,19 +1,18 @@
 ---
-metaTitle: Envato Marketplaces
-metaDescription: Design the logo for all the marketplaces of Envato.
-title: Envato Marketplaces
-description: One of the largest digital marketplaces in the world from Envato.
-testimonial: I’ve been working with kailoon for over a decade. He has a great combination of creativity, reliability and industry knowledge. He’s also a good human being and I would happily recommend him to anyone who needs someone with a lot of industry expertise.
-clientName: Collis
-clientPos: co-founder of Envato
-projectUrl: https://themeforest.net/
-dribbble:
+metaTitle: Lower bounce rates by 30% for BILDA website
+metaDescription: I led a redesign that lowered bounce rates by 30% for BILDA website.
+title: Lower bounce rates by 30% for BILDA website
+description: I led a redesign that lowered bounce rates by 30% for BILDA website.
+testimonial: PUT TEXT HERE He has a great combination of creativity, reliability and industry knowledge. He’s also a good human being and I would happily recommend him to anyone who needs someone with a lot of industry expertise.
+clientName: Damian
+clientPos: Owner of BILDA
+projectUrl: https://bilda.net
 featuredImg: envato-featured
 bgColor: E8E8E8
 featured: true
-tasks: Logo Design
-year: 2011
-date: 2021-02-20
+tasks: UX research and design, monitoring analytics, Wordpress, HTML/CSS prototyping 
+year: 2020
+date: 2020-02-20
 ---
 
 <div class="col-start-3 col-end-9">

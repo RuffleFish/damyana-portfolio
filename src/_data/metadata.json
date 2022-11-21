@@ -16,7 +16,8 @@
 		"email": "hello@damyana.design",
 		"url": "https://www.damyana.design",
 		"avatar": "https://res.cloudinary.com/kailoon/image/upload/c_scale,dpr_auto,q_auto,w_64/v1610896577/kailoon.com/avatar_ce8dgk.webp",
-		"mailtolink": "mailto:hello@damyana.design?subject=Request from damyana.design&body=Be sure to share as much info as you can on what you're trying to achieve and what sort of budget you have in place."
+		"mailtolink": "mailto:hello@damyana.design?subject=Request from damyana.design&body=Be sure to share as much info as you can on what you're trying to achieve and what sort of budget you have in place.",
+		"booklink": "https://calendly.com/damyana-design"
 	},
 	"socials": {
 		"linkedin": "https://linkedin.com/in/damyana-s70",
